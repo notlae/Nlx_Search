@@ -124,6 +124,8 @@ Get the latest version of **NLX_SEARCH** from the GitHub Releases page.
 ## 🤝 Contributing
 
 Found a bug? Got an idea? Open an issue or a PR. This is a solo side project built for fun and out of genuine hatred for Windows 10 search, so go easy, but PRs are welcome.
+                                                                            OR
+Message me on [Instagram](https://www.instagram.com/biren_shrestha17/) , [Protofoilo](https://www.notlae.is-a.dev/)
 
 ---
 
@@ -132,6 +134,9 @@ Found a bug? Got an idea? Open an issue or a PR. This is a solo side project bui
 MIT — do whatever you want with it, just don't blame me if the pig judges you.
 
 <div align="center">
+---
+## Sponcer
+Made with Claude and Chatgpt 
 
 *made with 🐷, Rust, and mild rage at Windows 10 search*
 
