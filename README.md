@@ -2,7 +2,7 @@
 
 <img src="./assets/pig-logo.png" width="140" alt="NLX_SEARCH pig logo"/>
 
-# 🐷👑 NLX_SEARCH
+# 🐷👑 Nlx_Search
 
 ### Windows search, but it actually slaps.
 
