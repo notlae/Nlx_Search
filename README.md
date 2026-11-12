@@ -128,16 +128,14 @@ Found a bug? Got an idea? Open an issue or a PR. This is a solo side project bui
 Message me on [Instagram](https://www.instagram.com/biren_shrestha17/) , [Protofoilo](https://www.notlae.is-a.dev/)
 
 ---
+## Sponcer
+Made with Claude and Chatgpt 
 
 ## 📜 License
 
 MIT — do whatever you want with it, just don't blame me if the pig judges you.
 
 <div align="center">
----
-## Sponcer
-Made with Claude and Chatgpt 
-
 *made with 🐷, Rust, and mild rage at Windows 10 search*
 
 </div>
