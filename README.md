@@ -94,7 +94,9 @@ If you don't trust a random pig-logo exe from the internet (correct instinct, ge
 
 ## 🐽 Why a pig
 
-Cause Technoblade Never Dies !! .
+Cause Technoblade Never Dies !!.
+
+So Dont say just pig Say legend !!
 
 ---
 ## 📥 Download & Install
