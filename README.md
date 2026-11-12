@@ -94,10 +94,21 @@ If you don't trust a random pig-logo exe from the internet (correct instinct, ge
 
 ## 🐽 Why a pig
 
-No reason. It wears a crown. It searches your files. Let it be.
+Cause Technoblade Never Dies !! .
 
 ---
+## 📥 Download & Install
 
+Get the latest version of **NLX_SEARCH** from the GitHub Releases page.
+
+1. Visit [NLX_SEARCH Releases](https://github.com/notlae/Nlx_Search/releases).
+2. Download the latest Windows `.exe` installer.
+3. Run the installer and follow the on-screen instructions.
+4. Launch NLX_SEARCH and enjoy a faster Windows search experience! 🐷
+
+> **Note:** Windows SmartScreen may display a security warning because the application is not code-signed. Only install builds you trust.
+
+---
 ## 🧷 Keyboard takeover notes
 
 - `Win` alone → opens NLX_SEARCH
